@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-          <iframe src="https://media.discordapp.net/attachments/1012671893188399145/1019946000409960538/3dgifmaker14645.gif" height="200" width="300" title="Spinning Hottie"></iframe>
+          <iframe src="https://media.discordapp.net/attachments/1012671893188399145/1019946000409960538/3dgifmaker14645.gif" height="400" width="350" title="Spinning Hottie"></iframe>
       </main>
 
       <Footer />
