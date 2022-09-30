@@ -11,10 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
-        <p className="description">
           <iframe src="https://media.discordapp.net/attachments/1012671893188399145/1019946000409960538/3dgifmaker14645.gif" title="Spinning Hottie"></iframe>
-        </p>
       </main>
 
       <Footer />
